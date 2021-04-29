@@ -1,0 +1,12 @@
+# Write your MySQL query statement below
+​
+# Note that when we're performing an operation on a table Person, we need that SELECT * FROM along with the nested query on Person again. 
+# Note that the nested query represented as a table in the output needs an alias or the code will break down.
+​
+​
+DELETE FROM Person
+WHERE Id NOT IN 
+    (SELECT * 
+     FROM(SELECT MIN(Id)
+    FROM Person
+    GROUP BY Email) AS p);
