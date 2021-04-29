@@ -1,0 +1,12 @@
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+BEGIN
+    -- Declare a variable named IND with type INT. For some reason, mySQL complains that N-1 won't work in the limit expresion
+    DECLARE IND INT;
+    SET IND = N - 1;
+  RETURN (
+    IFNULL((SELECT DISTINCT SALARY
+  FROM Employee ORDER BY SALARY DESC
+  LIMIT IND,1), NULL)
+  );
+END
+​
