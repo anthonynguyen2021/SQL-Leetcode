@@ -7,5 +7,5 @@
 |177|[ Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[MySQL](./solutions/177.%20Nth%20Highest%20Salary.mysql)|307 ms|
 |181|[ Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](./solutions/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.mysql)|323 ms|
 |184|[ Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MySQL](./solutions/184.%20Department%20Highest%20Salary.mysql)|613 ms|
-|196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./solutions/196.%20Delete%20Duplicate%20Emails.mysql)|1354 ms|
+|196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./solutions/196.%20Delete%20Duplicate%20Emails.mysql)|1496 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|358 ms|
