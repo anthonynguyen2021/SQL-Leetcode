@@ -1,0 +1,6 @@
+# Write your MySQL query statement below
+​
+SELECT x, y, z, IF(z >= x + y OR x >= z + y OR y >= x + z, 'No', 'Yes') AS 'triangle'
+FROM triangle;
+​
+-- z >= x + y OR x >= z + y OR y >= x + z
