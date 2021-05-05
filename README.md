@@ -12,3 +12,4 @@
 |610|[ Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MySQL](./solutions/610.%20Triangle%20Judgement.mysql)|264 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|2046 ms|
 |1270|[ All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/)|[MySQL](./solutions/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.mysql)|348 ms|
+|1757|[ Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./solutions/1757.%20Recyclable%20and%20Low%20Fat%20Products.mysql)|461 ms|
