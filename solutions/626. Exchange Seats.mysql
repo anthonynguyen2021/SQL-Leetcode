@@ -1,0 +1,7 @@
+SELECT (CASE WHEN MOD(id, 2) != 0 AND id != counts THEN id+1 WHEN MOD(id, 2) != 0 AND id = counts THEN id ELSE id-1  END) AS id, student
+FROM seat, (SELECT COUNT(*) AS counts FROM seat) AS combined_table
+ORDER BY id ASC;
+​
+​
+-- Do a cross join in the FROM statement. Perform a CASE when id is odd and not equal to the number of rows, id <- id+1.
+-- If id is even, id <- id. If id is equal to the number of rows, do nothing.
