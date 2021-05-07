@@ -14,4 +14,5 @@
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|467 ms|
 |1270|[ All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/)|[MySQL](./solutions/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.mysql)|348 ms|
 |1398|[ Customers Who Bought Products A and B but Not C](https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/)|[MySQL](./solutions/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C.mysql)|487 ms|
+|1445|[ Apples & Oranges](https://leetcode.com/problems/apples-oranges/)|[MySQL](./solutions/1445.%20Apples%20%26%20Oranges.mysql)|288 ms|
 |1757|[ Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./solutions/1757.%20Recyclable%20and%20Low%20Fat%20Products.mysql)|461 ms|
