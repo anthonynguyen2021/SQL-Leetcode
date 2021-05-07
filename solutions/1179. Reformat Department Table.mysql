@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT Department.id, 
     SUM(CASE WHEN Department.month = 'Jan' THEN Department.revenue END) AS 'Jan_Revenue',
     SUM(CASE WHEN Department.month = 'Feb' THEN Department.revenue END) AS 'Feb_Revenue',
