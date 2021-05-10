@@ -12,6 +12,7 @@
 |184|[ Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MySQL](./solutions/184.%20Department%20Highest%20Salary.mysql)|613 ms|
 |196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./solutions/196.%20Delete%20Duplicate%20Emails.mysql)|1496 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|361 ms|
+|607|[ Sales Person](https://leetcode.com/problems/sales-person/)|[MySQL](./solutions/607.%20Sales%20Person.mysql)|976 ms|
 |610|[ Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MySQL](./solutions/610.%20Triangle%20Judgement.mysql)|264 ms|
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|276 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|2046 ms|
