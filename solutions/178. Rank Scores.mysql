@@ -1,6 +1,6 @@
 SELECT s.Score, COUNT(s2.score) AS 'Rank'
 FROM (SELECT DISTINCT Score FROM Scores) s2, Scores s
-WHERE s.Score <= s2.Score
+WHERE s2.Score >= s.Score 
 GROUP BY s.Id
 ORDER BY s.Score DESC;
 ​
