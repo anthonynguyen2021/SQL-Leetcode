@@ -18,6 +18,7 @@
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|276 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|2046 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|467 ms|
+|1251|[ Average Selling Price](https://leetcode.com/problems/average-selling-price/)|[MySQL](./solutions/1251.%20Average%20Selling%20Price.mysql)|498 ms|
 |1270|[ All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/)|[MySQL](./solutions/1270.%20All%20People%20Report%20to%20the%20Given%20Manager.mysql)|348 ms|
 |1303|[ Find the Team Size](https://leetcode.com/problems/find-the-team-size/)|[MySQL](./solutions/1303.%20Find%20the%20Team%20Size.mysql)|257 ms|
 |1393|[ Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|[MySQL](./solutions/1393.%20Capital%20Gain%2FLoss.mysql)|551 ms|
