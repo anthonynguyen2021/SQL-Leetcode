@@ -17,7 +17,7 @@
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|361 ms|
 |607|[ Sales Person](https://leetcode.com/problems/sales-person/)|[MySQL](./solutions/607.%20Sales%20Person.mysql)|976 ms|
 |610|[ Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MySQL](./solutions/610.%20Triangle%20Judgement.mysql)|264 ms|
-|626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|276 ms|
+|626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|333 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|2046 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|467 ms|
 |1251|[ Average Selling Price](https://leetcode.com/problems/average-selling-price/)|[MySQL](./solutions/1251.%20Average%20Selling%20Price.mysql)|498 ms|
