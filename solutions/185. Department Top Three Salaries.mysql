@@ -1,8 +1,11 @@
 # Write your MySQL query statement below
+​
 SELECT d1.Name AS 'Department', e1.Name AS 'Employee', e1.Salary
 FROM Employee e1 JOIN Department d1 ON e1.DepartmentId = d1.Id
-WHERE (SELECT COUNT(DISTINCT e2.Salary) FROM Employee e2 WHERE e2.Salary >= e1.Salary AND e2.DepartmentId = e1.DepartmentId) <= 3;
+WHERE (SELECT COUNT(DISTINCT e2.Salary) FROM Employee e2 WHERE e2.Salary >= e1.Salary AND e2.DepartmentId = e1.DepartmentId) <= 3
+ORDER BY e1.Salary DESC;
 ​
 -- Idea of the solution: Perform an inner join. 
 -- Where condition will look at the rows of e1 where it will count the number of salary (in the same department) of table e2 that is at least 
 -- as large as salary in table e1. We look at the distinct e2.salary and ensure this is at most 3.
+​
