@@ -1,18 +1,5 @@
 # Write your MySQL query statement below
 ​
--- Step 1:
--- DELETE FROM Person
--- WHERE Id NOT IN -- SOME TABLE
-​
--- Step 2:
--- SOME TABLE - subquery
--- SELECT MIN(Id)
--- FROM Person
--- GROUP BY Email
-​
--- MYSQL REQUIRES THAT YOU ALIST THIS SUBQUERY
-​
 DELETE FROM Person
-WHERE Id NOT IN
-(SELECT * 
-FROM (SELECT MIN(Id) FROM Person GROUP BY Email) AS p);
+WHERE Id NOT IN (SELECT * FROM (SELECT MIN(Id) FROM Person GROUP BY Email) AS p);
+​
