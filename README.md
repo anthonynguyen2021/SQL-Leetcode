@@ -13,7 +13,7 @@
 |184|[ Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MySQL](./solutions/184.%20Department%20Highest%20Salary.mysql)|613 ms|
 |185|[ Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[MySQL](./solutions/185.%20Department%20Top%20Three%20Salaries.mysql)|957 ms|
 |196|[ Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./solutions/196.%20Delete%20Duplicate%20Emails.mysql)|1446 ms|
-|586|[ Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[MySQL](./solutions/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.mysql)|402 ms|
+|586|[ Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[MySQL](./solutions/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.mysql)|471 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|361 ms|
 |607|[ Sales Person](https://leetcode.com/problems/sales-person/)|[MySQL](./solutions/607.%20Sales%20Person.mysql)|976 ms|
 |610|[ Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MySQL](./solutions/610.%20Triangle%20Judgement.mysql)|264 ms|
