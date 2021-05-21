@@ -16,7 +16,7 @@
 |586|[ Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[MySQL](./solutions/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.mysql)|471 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|361 ms|
 |607|[ Sales Person](https://leetcode.com/problems/sales-person/)|[MySQL](./solutions/607.%20Sales%20Person.mysql)|976 ms|
-|610|[ Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MySQL](./solutions/610.%20Triangle%20Judgement.mysql)|264 ms|
+|610|[ Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MySQL](./solutions/610.%20Triangle%20Judgement.mysql)|259 ms|
 |626|[ Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[MySQL](./solutions/626.%20Exchange%20Seats.mysql)|333 ms|
 |627|[ Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](./solutions/627.%20Swap%20Salary.mysql)|2046 ms|
 |1179|[ Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](./solutions/1179.%20Reformat%20Department%20Table.mysql)|467 ms|
