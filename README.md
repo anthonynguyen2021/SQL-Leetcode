@@ -16,6 +16,7 @@
 |511|[ Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[MySQL](./solutions/511.%20Game%20Play%20Analysis%20I.mysql)|432 ms|
 |512|[ Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)|[MySQL](./solutions/512.%20Game%20Play%20Analysis%20II.mysql)|434 ms|
 |534|[ Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/)|[MySQL](./solutions/534.%20Game%20Play%20Analysis%20III.mysql)|688 ms|
+|550|[ Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)|[MySQL](./solutions/550.%20Game%20Play%20Analysis%20IV.mysql)|424 ms|
 |586|[ Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[MySQL](./solutions/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.mysql)|471 ms|
 |596|[ Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./solutions/596.%20Classes%20More%20Than%205%20Students.mysql)|361 ms|
 |607|[ Sales Person](https://leetcode.com/problems/sales-person/)|[MySQL](./solutions/607.%20Sales%20Person.mysql)|976 ms|
