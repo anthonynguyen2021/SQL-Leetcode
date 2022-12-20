@@ -33,3 +33,5 @@
 |1667|[ Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[MySQL](./solutions/1667.%20Fix%20Names%20in%20a%20Table.mysql)|700 ms|
 |1741|[ Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[MySQL](./solutions/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.mysql)|479 ms|
 |1757|[ Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./solutions/1757.%20Recyclable%20and%20Low%20Fat%20Products.mysql)|461 ms|
+
+See solutions column and click corresponding link for SQL code
