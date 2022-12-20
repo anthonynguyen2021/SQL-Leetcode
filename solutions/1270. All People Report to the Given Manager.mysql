@@ -1,10 +1,6 @@
 # Write your MySQL query statement below
-​
 -- self join 2 times 
-​
-​
 -- employee_id | employee_name | 1st manager id | 1st manager name | 2nd manager id (1st manager's manager) | 2nd manager name ... | ... 3rd employee_id
-​
 SELECT DISTINCT e1.employee_id
 FROM Employees e1
 JOIN Employees e2
@@ -12,3 +8,4 @@ JOIN Employees e2
 JOIN Employees e3
     ON e2.manager_id = e3.employee_id
 WHERE e3.manager_id = 1 AND e1.employee_id != 1;
+​
