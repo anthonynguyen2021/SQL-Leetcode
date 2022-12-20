@@ -2,3 +2,4 @@
 SELECT employee_id, team_size
 FROM Employee
 JOIN (SELECT team_id, COUNT(*) AS team_size FROM Employee GROUP BY team_id) AS a USING (team_id);
+​
