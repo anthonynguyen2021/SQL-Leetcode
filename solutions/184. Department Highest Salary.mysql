@@ -2,8 +2,6 @@
 -- 1. Perform a join along with a where clause to check if a department id and salary is in the max salary of a department
 -- in the subquery below
 -- 2. Write a subquery that takes a department along with its max salary
-​
-​
 SELECT Department.Name AS "Department", Employee.Name AS Employee, Employee.Salary AS "Salary"
 FROM Department 
 JOIN Employee
