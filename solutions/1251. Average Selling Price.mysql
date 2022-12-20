@@ -3,5 +3,5 @@ SELECT p.product_id, ROUND(SUM(u.units * p.price) / SUM(u.units), 2) AS 'average
 FROM Prices as p JOIN UnitsSold as u
 WHERE p.product_id = u.product_id AND u.purchase_date >= p.start_date AND u.purchase_date <= p.end_date
 GROUP BY p.product_id
-​
 -- JOIN without the ON CLAUSE performs a CROSS JOIN
+​
