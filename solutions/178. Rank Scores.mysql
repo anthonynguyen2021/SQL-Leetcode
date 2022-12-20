@@ -3,6 +3,6 @@ FROM (SELECT DISTINCT Score FROM Scores) s2, Scores s
 WHERE s2.Score >= s.Score 
 GROUP BY s.Id
 ORDER BY s.Score DESC;
-​
 -- Idea: Perform a cross join with distinct scores in Scores with Scores table where s.Score <= s2.Score. 
 -- We perform a group by to compute the rank and order by score in descending at the end.
+​
