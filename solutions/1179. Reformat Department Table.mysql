@@ -13,3 +13,4 @@ SELECT Department.id,
     SUM(CASE WHEN Department.month = 'Dec' THEN Department.revenue END) AS 'Dec_Revenue'
 FROM Department
 GROUP BY Department.id;
+​
