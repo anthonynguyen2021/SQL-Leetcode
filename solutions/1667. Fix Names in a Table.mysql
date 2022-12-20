@@ -1,8 +1,8 @@
 SELECT user_id, (CONCAT(UPPER(LEFT(name, 1)), LOWER(SUBSTR(name, 2)))) AS name
 FROM Users
 ORDER BY user_id ASC;
-​
 -- CONCAT will concatenate two strings where it takes in two string arguments
 -- UPPER will uppercase a string (similarly with LOWER)
 -- LEFT(string, i) will extract the first i characters of a string
 -- SUBSTR(string, i) will extract the substring of string starting at position i to the end (1 based indexing)
+​
